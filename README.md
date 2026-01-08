@@ -2,7 +2,7 @@
 
 Implements a Kafka-based pipeline where weather data is produced by a Python program, streamed through Kafka, and consumed to generate partitioned JSON files with summary statistics suitable for a web dashboard.
 
-## Key features
+## Key Features
 - Kafka producer and consumer implementation in Python
 - Streaming with manual and automatic partition assignment
 - Exactly-once semantics and crash recovery
