@@ -1,4 +1,4 @@
-# Project Overview
+# Kafka Weather Data Project Overview
 
 Implements a Kafka-based pipeline where weather data is produced by a Python program, streamed through Kafka, and consumed to generate partitioned JSON files with summary statistics suitable for a web dashboard.
 
